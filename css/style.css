@@ -8,3 +8,7 @@
         padding-bottom: 8px;
         border-left: 8px solid chocolate;
     }
+
+    p {
+        color: pink;
+    }
